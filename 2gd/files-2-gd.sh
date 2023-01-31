@@ -26,7 +26,7 @@ LOG="${TMP}/files-2-gd.log"
 SRC="/var/log"
 RCLONE_DEST="backup:backup/test/files"
 LIST="${TMP}/file.list"
-MAIL="t-131@yandex.ru"
+MAIL="USER@DOMAIN.COM"
 EXCLUDED_FOLDERS="asterisk|apt"
 SED_RELATIVE_PATH="\/var\/log\/"
 ######
